@@ -1,0 +1,11 @@
+# directories
+/node_modules/
+/.happypack/
+/dist/
+
+# cruft
+npm-debug.log
+*.log
+.env
+stats.json
+yarn.lock
